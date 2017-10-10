@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_78c5138ed77ee2d9450aa5c39c69e1e6099be034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_70f3791dd9dd19cda8484581b5e307a6eddfe49b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be1cac8c968bebcd5d8e75e637e1a1e394a37163">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b39a806077e8ccdd37d1dfeaae2c937f3c3fe00b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_dd0f9b5cde6ab9347a3471cd535d4887b5a0bd12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_a49c799bb40b1ab63e094a6d30b619a0c3fda92e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_cf7105857debfb1d2a722c9c83500c3e668149dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_10f87c38387b34ec0b3a41a2203ededa54ab0b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_f9efa1c966abc5c593d061a523e18347ef35a322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_e2fcefaad12f11bac5bb34ed6de3905e6c27f866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c4c1fcc34aca536e3389c31527fb3c941b80266">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.4.0_629da54af17672f4d0d427d36fbdf9dea4cf273e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d53700a6493e65d32477883d53adc535210ed7f">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b9049a0d6ab708769c6d61fa1073f7360df6f79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_33201d28b15096d1ea341606c17416c925b8a1d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_e7ce35dd4c65a6a2cedf261296ac643b0c36d044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_25c608e6cbbce772c1514d220c35a8e4225f72d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Beyond\Downloads\AppUpData\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_e836b78abc9360a2ac86e40309913bcea06a1c61\classes.dex" />
+    </item>
+
+</items>
